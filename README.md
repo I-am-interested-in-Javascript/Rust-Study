@@ -9,7 +9,7 @@
 
 ## 목차
 - [The Rust Programming Language](./Chapter/TheRust.md)
-- Foreword
+- [Foreword](./Chapter/Foreword.md)
 - Introduction
 1. Getting Started
 2. Programming a guessing game
