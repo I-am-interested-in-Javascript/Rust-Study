@@ -29,3 +29,6 @@ _The Rust Programming Language_ Rust 컴파일러 버전을 업데이트 했더�
 https://doc.rust-lang.org/stable/book/ 에서 html버전으로도 볼수있고, rustup으로 설지된 오프라인 버전으로도 볼수 있다.(rustup docs --book)
 
 https://nostarch.com/Rust2018 에서 책이 있다!
+
+
+[출처](https://doc.rust-lang.org/book/title-page.html)
