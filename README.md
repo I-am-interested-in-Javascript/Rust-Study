@@ -6,12 +6,14 @@
 
 잘못된 번역이 있으면 Issue 꼭 남겨주세요!
 
+## 예제
+책에서 나오는 예제는 [여기](https://github.com/hayoung0Lee/Rust-Practice) 에 나름대로 chapter별로 정리 중 입니다. 책에도 똑같은 내용이 있어서 따라하셔도 됩니다.  
 
 ## 목차
 - [The Rust Programming Language](./Chapter/TheRust.md)
 - [Foreword](./Chapter/Foreword.md)
 - [Introduction](./Chapter/Introduction.md)
-1. Getting Started
+1. [Getting Started](./Chapter/chapter1/GettingStarted.md)
 2. Programming a guessing game
 3. Common Programming Concepts
 4. Understanding Ownership
